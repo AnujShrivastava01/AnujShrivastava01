@@ -4,7 +4,7 @@
 </div>
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Hey..+I'm+Anuj;Welcome+to+my+Github+profile!;Passionate+about+Coding!;Exploring+new+technologies!;Let's+code+together!;Passionate+about+Coding!;"
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3500&color=4FC3F7&center=true&vCenter=true&width=450&lines=Hii..+I'm+Anuj;Welcome+to+my+Github+profile!;Passionate+about+Coding!;Exploring+new+technologies!;Let's+code+together!;Passionate+about+Coding!;"
             alt="Typing SVG" />
     </h1>
 </div>
@@ -18,9 +18,9 @@ Hello, Coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me 
             alt="neerugangarh" height="40" width="50" /></a>
   <a href="https://www.hackerrank.com/anujshrivastav12" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-            alt="anujshrivastav12" height="65" width="50" /></a>
+            alt="anujshrivastav12" height="55" width="50" /></a>
    <a href="https://www.codechef.com/users/mg0901cs231021" target="blank"><img align="center"
-            src="https://yt3.googleusercontent.com/Lkx3tvgHdRADC3wXQ5TfJZRTeH4nboEPA_-eJChOZ6jRkOdY35lcg014Whj36rHFXhrHY1T_4cs=s900-c-k-c0x00ffffff-no-rj" alt="Codechef" height="40"
+            src="https://yt3.googleusercontent.com/Lkx3tvgHdRADC3wXQ5TfJZRTeH4nboEPA_-eJChOZ6jRkOdY35lcg014Whj36rHFXhrHY1T_4cs=s900-c-k-c0x00ffffff-no-rj" alt="Codechef" height="50"
             width="50" /></a>
 
 
