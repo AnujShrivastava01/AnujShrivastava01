@@ -16,6 +16,9 @@ Hello, Coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me 
     <a href="https://www.linkedin.com/in/anuj-shrivastava-949645299/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="neerugangarh" height="40" width="50" /></a>
+    <a href="https://leetcode.com/u/anujshrivastava10e/" target="blank"><img align="center"
+                    src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" alt="leetcode" height="40"
+                    width="50" /></a>
   <a href="https://www.hackerrank.com/anujshrivastav12" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
             alt="anujshrivastav12" height="55" width="50" /></a>
