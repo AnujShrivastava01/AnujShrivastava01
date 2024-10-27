@@ -25,8 +25,6 @@ Hello, Coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me 
    <a href="https://www.codechef.com/users/mg0901cs231021" target="blank"><img align="center"
             src="https://yt3.googleusercontent.com/Lkx3tvgHdRADC3wXQ5TfJZRTeH4nboEPA_-eJChOZ6jRkOdY35lcg014Whj36rHFXhrHY1T_4cs=s900-c-k-c0x00ffffff-no-rj" alt="Codechef" height="50"
             width="50" /></a>
-
-
 </p>
 
 
@@ -52,8 +50,19 @@ growth!
 </p>
 <br>
 
+<div align="center">
+  <!-- <h1 align="center">🏆 Trophies</h1> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=yashksaini-coder&column=-1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4">
+</div>
+
+<div align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/anujshrivastava01?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=10002B,240046,3C096C,5A189A,7B2CBF,9D4EDD,C77DFF,E0AAFF&dark=true">
+</div>
+
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
+
 [![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeru24&layout=compact&theme=dark&langs_count=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujshrivastava01&layout=compact&theme=dark&langs_count=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 ## GSSOC(24-Extd) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -64,6 +73,10 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeru24&la
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </a>
 </div>
+
+[![An image of @anujshrivastava_01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anujshrivastava_01)](https://holopin.io/@anujshrivastava_01)
+
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 
 ## 📊 My Stats :
 Peek into my GitHub stats to check out my digital journey! <br> <br>
