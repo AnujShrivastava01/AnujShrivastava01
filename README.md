@@ -71,9 +71,11 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujshriva
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100px" height="100px" />
 </a>
 </div>
 
+## Holopin Badges 🪶
 [![An image of @anujshrivastava_01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anujshrivastava_01)](https://holopin.io/@anujshrivastava_01)
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
