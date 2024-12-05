@@ -85,12 +85,13 @@ Peek into my GitHub stats to check out my digital journey! <br> <br>
 [![My GitHub
 Stats](https://github-readme-stats.vercel.app/api/?username=anujshrivastava01&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anujshrivastava01)
 <br>
-[![GitHub
-Streak](https://github-readme-streak-stats.herokuapp.com?user=anujshrivastava01&theme=dark)](https://git.io/streak-stats)
+<div align="center" width="50%">
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anujshrivastava01&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Neeru's GitHub Streak" /></p>
+</div>
 
 #### 🔍 Profile views :
 ![Visitor Count](https://profile-counter.glitch.me/{anujshrivastava01}/count.svg)
-
+<br>
 <div align="center">
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Enjoy+Coding..;Code+with+passion+,+create+with+purpose.;Commit+to+your+dreams+,+push+to+GitHub.;Craft+your+dreams+with+code.;Dream+big+,+code+bigger.."
