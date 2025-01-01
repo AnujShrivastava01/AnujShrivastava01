@@ -86,8 +86,9 @@ Peek into my GitHub stats to check out my digital journey! <br> <br>
 Stats](https://github-readme-stats.vercel.app/api/?username=anujshrivastava01&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anujshrivastava01)
 <br>
 <div align="center" width="50%">
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anujshrivastava01&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Anuj's GitHub Streak" /></p>
+
 </div>
+
 
 #### 🔍 Profile views :
 ![Visitor Count](https://profile-counter.glitch.me/{anujshrivastava01}/count.svg)
