@@ -42,27 +42,54 @@ growth!
 📩 Get in touch:
 <a href="mailto:anujshrivastava10e@gmail.com">anujshrivastava10e@gmail.com</a>
 <br>
-<h2>🛠️Skills</h2>
-<p>
-    <a href="https://skillicons.dev">
-        <img margin="8px" src="https://skillicons.dev/icons?i=html,css,js,cpp" />
-    </a>
-</p>
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!-- Streak feature -->
+<!--stats-->
+<h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h2>
+
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anujshrivastava01&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anujshrivastava01&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anujshrivastava01&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anujshrivastava01&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anujshrivastava01&theme=github_dark" />
+</div>
+<br>
+<div align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=anujshrivastava01&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
+</div>
+<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!--Languages & tools-->
+<h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages, Tools and Technologies </h2>
+
+<table align="center">
+	<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp&theme=dark"></td>
+</tr>
+
+<tr>
+	<td><strong>Frontend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js" ></td>
+</tr>
+
+<tr>
+	<td><strong>Developer Tools</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=github&theme=dark"></td>
+</tr>
+
+</table>
 <br>
 
-<div align="center">
-  <!-- <h1 align="center">🏆 Trophies</h1> -->
-  <img src="https://github-profile-trophy.vercel.app/?username=yashksaini-coder&column=-1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4">
-</div>
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<div align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/anujshrivastava01?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=10002B,240046,3C096C,5A189A,7B2CBF,9D4EDD,C77DFF,E0AAFF&dark=true">
-</div>
-
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
-
-[![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujshrivastava01&layout=compact&theme=dark&langs_count=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 ## GSSOC(24-Extd) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -82,7 +109,12 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujshriva
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 
 ## 📊 My Stats :
-Peek into my GitHub stats to check out my digital journey! <br> <br>
+Peek into my GitHub stats to check out my digital journey! <br>
+<div  width="50%">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anujshrivastava01&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Anuj's GitHub Streak" /></p>
+</div>
+<br>
+
 [![My GitHub
 Stats](https://github-readme-stats.vercel.app/api/?username=anujshrivastava01&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anujshrivastava01)
 <br>
