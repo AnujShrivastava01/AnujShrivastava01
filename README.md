@@ -42,6 +42,7 @@ growth!
 📩 Get in touch:
 <a href="mailto:anujshrivastava10e@gmail.com">anujshrivastava10e@gmail.com</a>
 <br>
+
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -123,8 +124,6 @@ Stats](https://github-readme-stats.vercel.app/api/?username=anujshrivastava01&co
 </div>
 
 
-#### 🔍 Profile views :
-![Visitor Count](https://profile-counter.glitch.me/{anujshrivastava01}/count.svg)
 <br>
 <div align="center">
     <h1>
