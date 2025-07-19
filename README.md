@@ -29,7 +29,7 @@ Hello, Coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me 
 
 
 <h2>👩‍💻About me : </h2>
-🌿 Hello, I'm Anuj Shrivastava, Currently a 2nd-year Computer Science student at Mits Gwalior.
+🌿 Hello, I'm Anuj Shrivastava, Currently a 3rd-year Computer Science student at Mits Gwalior.
 <br><br>
 "✨ With a passion for web development 🌐 as my compass, I am dedicated to mastering Data Structures and Algorithms (DSA)
 on this exciting journey."
