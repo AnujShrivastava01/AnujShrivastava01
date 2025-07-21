@@ -23,7 +23,7 @@ Hello, Coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me 
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
             alt="anujshrivastav12" height="55" width="50" /></a>
    <a href="https://www.codechef.com/users/mg0901cs231021" target="blank"><img align="center"
-            src="https://yt3.googleusercontent.com/Lkx3tvgHdRADC3wXQ5TfJZRTeH4nboEPA_-eJChOZ6jRkOdY35lcg014Whj36rHFXhrHY1T_4cs=s900-c-k-c0x00ffffff-no-rj" alt="Codechef" height="50"
+            src="https://codechefabesec.netlify.app/img/icons/ccemoji2.webp" alt="Codechef" height="50"
             width="50" /></a>
 </p>
 
