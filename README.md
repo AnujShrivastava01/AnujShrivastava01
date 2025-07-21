@@ -122,7 +122,9 @@ Stats](https://github-readme-stats.vercel.app/api/?username=anujshrivastava01&co
 <div align="center" width="50%">
 
 </div>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anujshrivastava01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 <br>
 <div align="center">
