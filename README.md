@@ -111,22 +111,22 @@ growth!
 
 ## 📊 My Stats :
 Peek into my GitHub stats to check out my digital journey! <br>
-<div  width="50%">
+<div  width="50%" align ="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anujshrivastava01&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Anuj's GitHub Streak" /></p>
 </div>
 <br>
 
-[![My GitHub
-Stats](https://github-readme-stats.vercel.app/api/?username=anujshrivastava01&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anujshrivastava01)
-<br>
-<div align="center" width="50%">
+<p align="center">
+  <a href="https://github.com/anujshrivastava01">
+    <img src="https://github-readme-stats.vercel.app/api/?username=anujshrivastava01&count_private=true&theme=tokyonight&show_icons=true" alt="My GitHub Stats" width="50%" />
+  </a>
+</p>
 
-</div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anujshrivastava01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<br>
+
 <div align="center">
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Enjoy+Coding..;Code+with+passion+,+create+with+purpose.;Commit+to+your+dreams+,+push+to+GitHub.;Craft+your+dreams+with+code.;Dream+big+,+code+bigger.."
