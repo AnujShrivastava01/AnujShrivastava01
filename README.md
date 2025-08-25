@@ -59,11 +59,8 @@ growth!
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anujshrivastava01&theme=github_dark" />
 </div>
 <br>
-<div align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=anujshrivastava01&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
-</div>
-<br>
+
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--Languages & tools-->
