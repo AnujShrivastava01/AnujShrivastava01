@@ -171,12 +171,11 @@ Peek into my GitHub stats to check out my digital journey! <br>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55" alt="Rocket" />
   Let’s Connect
 </h2>
-
+<div align="center">
 <p align="center">
   I’m always open to meaningful conversations, collaborations, and opportunities.<br>
   Whether it’s open-source, internships, or building impactful tech — feel free to reach out.
 </p>
-
 <pre><code>
 ┌──────────────────────────────────────────────┐
 │  💡 Curious mind, builder by passion         │
@@ -184,6 +183,30 @@ Peek into my GitHub stats to check out my digital journey! <br>
 │  🚀 Let’s create something impactful         │
 └──────────────────────────────────────────────┘
 </code></pre>
+</div>
+<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/anujshrivastava1/" target="_blank" title="Linkedin">
+    <img height="42" src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:anujshrivastava10e@gmail.com" title="Email">
+    <img height="42" src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.anujshrivastava.tech/" target="_blank" title="Portfolio">
+    <img height="42" src="https://cdn.simpleicons.org/googlechrome/4285F4" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/AnujShrivastava" target="_blank" title="Github">
+    <img height="42" src="https://cdn.simpleicons.org/github/ffffff" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/anujshrivastava_01" target="_blank" title="anujshrivastava_01">
+    <img height="42" src="https://cdn.simpleicons.org/discord/5865F2" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/itsanujs01" target="_blank" title="@itsanujs01">
+    <img height="35" src="https://cdn.simpleicons.org/x/ffffff" />
+  </a>
+</p>
 
 
 
