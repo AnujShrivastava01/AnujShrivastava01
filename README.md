@@ -208,6 +208,17 @@ Peek into my GitHub stats to check out my digital journey! <br>
   </a>
 </p>
 
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Quote" width="25" /> Quote of the Day
+
+<div align="left">
+
+<!-- QUOTE:START -->
+> "The giving of love is an education in itself."
+> 
+> — *Eleanor Roosevelt*
+<!-- QUOTE:END -->
+
+</div>
 
 
 <div align="center">
