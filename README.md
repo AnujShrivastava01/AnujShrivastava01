@@ -142,9 +142,9 @@ Peek into my GitHub stats to check out my digital journey! <br>
 <td>
 
 <!-- QUOTE:START -->
-> "No need to hurry. No need to sparkle. No need to be anybody but oneself."
+> "There is only one thing in the world worse than being talked about, and that is not being talked about. "
 > 
-> — *Virginia Woolf*
+> — *Oscar Wilde*
 <!-- QUOTE:END -->
 
 </td>
