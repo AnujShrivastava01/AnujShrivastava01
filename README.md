@@ -210,15 +210,23 @@ Peek into my GitHub stats to check out my digital journey! <br>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Quote" width="25" /> Quote of the Day
 
-<div align="left">
+<table align="center">
+<tr>
+<td>
 
 <!-- QUOTE:START -->
-> "You don't have to control your thoughts; you just have to stop letting them control you."
-> 
-> — *Dan Millman*
+<blockquote>
+“You don't have to control your thoughts; you just have to stop letting them control you.”
+
+<p align="right"><em>— Dan Millman</em></p>
+</blockquote>
 <!-- QUOTE:END -->
 
-</div>
+</td>
+</tr>
+</table>
+
+
 
 
 <div align="center">
