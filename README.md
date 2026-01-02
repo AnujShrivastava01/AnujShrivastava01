@@ -174,7 +174,7 @@ Peek into my GitHub stats to check out my digital journey! <br>
 <div align="center">
 <p align="center">
   I’m always open to meaningful conversations, collaborations, and opportunities.<br>
-  Whether it’s open-source, internships, or building impactful tech — feel free to reach out.
+  Whether it’s open-source, internships, or building impactful tech - feel free to reach out.
 </p>
 <pre><code>
 ┌──────────────────────────────────────────────┐
