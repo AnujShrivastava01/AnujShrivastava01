@@ -180,7 +180,7 @@ Peek into my GitHub stats to check out my digital journey! <br>
   <a href="https://www.anujshrivastava.tech/" target="_blank" title="Portfolio">
     <img height="42" src="https://cdn.simpleicons.org/googlechrome/4285F4" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/AnujShrivastava" target="_blank" title="Github">
+  <a href="https://github.com/AnujShrivastava01" target="_blank" title="Github">
     <img height="42" src="https://cdn.simpleicons.org/github/ffffff" />
   </a>
   &nbsp;&nbsp;
