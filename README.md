@@ -48,9 +48,9 @@ growth!
 <h2>💭 Quote of the Day</h2>
 
 <!-- QUOTE:START -->
-> "The only way to do great work is to love what you do."
+> "Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive."
 > 
-> — *Steve Jobs*
+> — *Anne Wilson Schaef*
 <!-- QUOTE:END -->
 
 <!-- Streak feature -->
