@@ -48,9 +48,9 @@ growth!
 <h2>💭 Quote of the Day</h2>
 
 <!-- QUOTE:START -->
-> "The best time to plant a tree was 20 years ago. The second best time is now."
+> "Life is trying things to see if they work."
 > 
-> — *Zen Proverb*
+> — *Ray Bradbury*
 <!-- QUOTE:END -->
 
 <!-- Streak feature -->
