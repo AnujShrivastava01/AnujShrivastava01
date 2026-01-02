@@ -48,9 +48,9 @@ growth!
 <h2>💭 Quote of the Day</h2>
 
 <!-- QUOTE:START -->
-> "Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive."
+> "The best time to plant a tree was 20 years ago. The second best time is now."
 > 
-> — *Anne Wilson Schaef*
+> — *Zen Proverb*
 <!-- QUOTE:END -->
 
 <!-- Streak feature -->
