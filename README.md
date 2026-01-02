@@ -213,9 +213,9 @@ Peek into my GitHub stats to check out my digital journey! <br>
 <div align="left">
 
 <!-- QUOTE:START -->
-> "The giving of love is an education in itself."
+> "You don't have to control your thoughts; you just have to stop letting them control you."
 > 
-> — *Eleanor Roosevelt*
+> — *Dan Millman*
 <!-- QUOTE:END -->
 
 </div>
