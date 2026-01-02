@@ -2,7 +2,7 @@ name: Daily Readme Update
 
 on:
   schedule:
-    - cron: "30 18 * * *"
+    - cron: "5 13 * * *"
   push:
     branches:
       - main
