@@ -135,9 +135,23 @@ Peek into my GitHub stats to check out my digital journey! <br>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anujshrivastava01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Quote" width="25" /> Quote of the Day
+
+<table align="center">
+<tr>
+<td>
+
+<!-- QUOTE:START -->
+> "No need to hurry. No need to sparkle. No need to be anybody but oneself."
+> 
+> — *Virginia Woolf*
+<!-- QUOTE:END -->
+
+</td>
+</tr>
+</table>
+
+
 
 <h2>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55" alt="Rocket" />
@@ -180,24 +194,9 @@ Peek into my GitHub stats to check out my digital journey! <br>
   </a>
 </p>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Quote" width="25" /> Quote of the Day
-
-<table align="center">
-<tr>
-<td>
-
-<!-- QUOTE:START -->
-> "There are few reasons for telling the truth, but for lying the number is infinite."
-> 
-> — *Carlos Ruiz Zafon*
-<!-- QUOTE:END -->
-
-</td>
-</tr>
-</table>
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anujshrivastava01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 <div align="center">
     <h1>
