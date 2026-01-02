@@ -16,10 +16,16 @@ jobs:
 
       - name: Fetch Random Quote and Update README
         run: |
-          # Fetch random quote from API
-          QUOTE_DATA=$(curl -s "https://api.quotable.io/random")
-          QUOTE=$(echo "$QUOTE_DATA" | jq -r '.content')
-          AUTHOR=$(echo "$QUOTE_DATA" | jq -r '.author')
+          # Fetch random quote from ZenQuotes API
+          QUOTE_DATA=$(curl -s "https://zenquotes.io/api/random")
+          QUOTE=$(echo "$QUOTE_DATA" | jq -r '.[0].q')
+          AUTHOR=$(echo "$QUOTE_DATA" | jq -r '.[0].a')
+          
+          # Fallback if API fails
+          if [ "$QUOTE" == "null" ] || [ -z "$QUOTE" ]; then
+            QUOTE="Code is like humor. When you have to explain it, it's bad."
+            AUTHOR="Cory House"
+          fi
           
           # Update README with new quote
           sed -i '/<!-- QUOTE:START -->/,/<!-- QUOTE:END -->/c\<!-- QUOTE:START -->\n> "'"$QUOTE"'"\n> \n> — *'"$AUTHOR"'*\n<!-- QUOTE:END -->' README.md
