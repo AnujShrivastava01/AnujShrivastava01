@@ -215,11 +215,9 @@ Peek into my GitHub stats to check out my digital journey! <br>
 <td>
 
 <!-- QUOTE:START -->
-<blockquote>
-“You don't have to control your thoughts; you just have to stop letting them control you.”
-
-<p align="right"><em>— Dan Millman</em></p>
-</blockquote>
+> "No need to hurry. No need to sparkle. No need to be anybody but oneself."
+> 
+> — *Virginia Woolf*
 <!-- QUOTE:END -->
 
 </td>
