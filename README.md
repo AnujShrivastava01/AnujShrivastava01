@@ -48,9 +48,9 @@ growth!
 <h2>💭 Quote of the Day</h2>
 
 <!-- QUOTE:START -->
-> "Life is trying things to see if they work."
+> "Change is hardest at the beginning, messiest in the middle and best at the end."
 > 
-> — *Ray Bradbury*
+> — *Robin Sharma*
 <!-- QUOTE:END -->
 
 <!-- Streak feature -->
