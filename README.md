@@ -48,9 +48,9 @@ growth!
 <h2>💭 Quote of the Day</h2>
 
 <!-- QUOTE:START -->
-> "Change is hardest at the beginning, messiest in the middle and best at the end."
+> "The giving of love is an education in itself."
 > 
-> — *Robin Sharma*
+> — *Eleanor Roosevelt*
 <!-- QUOTE:END -->
 
 <!-- Streak feature -->
