@@ -17,7 +17,7 @@
 on this exciting journey."
 📊.
 <br><br>
-📅 I share daily insights of my experience, documenting my learning journey and discoveries. You're invited to join me on
+📅 I share insights of my experience, documenting my learning journey and discoveries. You're invited to join me on
 <a href="https://www.linkedin.com/in/anuj-shrivastava-949645299/" target="new"> LinkedIn</a> for this exciting path of exploration and
 growth!
 <br><br>
@@ -25,34 +25,6 @@ growth!
 <a href="mailto:anujshrivastava10e@gmail.com">anujshrivastava10e@gmail.com</a>
 <br>
 
-<h2>🔗 Connect with Me</h2>
-
-<p>
-Hello, fellow coder! 👋 Feel free to connect with me on the platforms below:
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/anujshrivastava1/" target="_blank" title="Linkedin">
-    <img height="42" src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:anujshrivastava10e@gmail.com" title="Email">
-    <img height="42" src="https://skillicons.dev/icons?i=gmail&theme=dark" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.anujshrivastava.tech/" target="_blank" title="Portfolio">
-    <img height="42" src="https://cdn.simpleicons.org/googlechrome/4285F4" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/AnujShrivastava" target="_blank" title="Github">
-    <img height="42" src="https://cdn.simpleicons.org/github/ffffff" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/anujshrivastava_01" target="_blank" title="anujshrivastava_01">
-    <img height="42" src="https://cdn.simpleicons.org/discord/5865F2" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/itsanujs01" target="_blank" title="@itsanujs01">
-    <img height="35" src="https://cdn.simpleicons.org/x/ffffff" />
-  </a>
-</p>
 <br>
 
 <h2>Projects: </h2>
