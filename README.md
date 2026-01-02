@@ -8,7 +8,9 @@
     </h1>
 </div>
 
-<h2>👩‍💻About me : </h2>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+
 🌿 Hello, I'm Anuj Shrivastava, Currently a 3rd-year Computer Science student at Mits Gwalior.
 <br><br>
 "✨ With a passion for web development 🌐 as my compass, I am dedicated to mastering Data Structures and Algorithms (DSA)
@@ -30,24 +32,25 @@ Hello, fellow coder! 👋 Feel free to connect with me on the platforms below:
 </p>
 
 <p align="left">
-
-  <a href="https://www.linkedin.com/in/anuj-shrivastava-949645299/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" />
+  <a href="https://www.linkedin.com/in/anujshrivastava1/" target="_blank" title="Linkedin">
+    <img height="42" src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/anujshrivastava10e/" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" height="30" width="30" />
+  <a href="mailto:anujshrivastava10e@gmail.com" title="Email">
+    <img height="42" src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:anujshrivastava10e@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
-         height="30" width="30" alt="Email" /> 
-    </a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/anujshrivastav12" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="30" />
+  <a href="https://www.anujshrivastava.tech/" target="_blank" title="Portfolio">
+    <img height="42" src="https://cdn.simpleicons.org/googlechrome/4285F4" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/mg0901cs231021" target="_blank">
-    <img src="https://codechefabesec.netlify.app/img/icons/ccemoji2.webp" height="30" width="30" />
+  <a href="https://github.com/AnujShrivastava" target="_blank" title="Github">
+    <img height="42" src="https://cdn.simpleicons.org/github/ffffff" />
   </a>
-  
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/anujshrivastava_01" target="_blank" title="anujshrivastava_01">
+    <img height="42" src="https://cdn.simpleicons.org/discord/5865F2" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/itsanujs01" target="_blank" title="@itsanujs01">
+    <img height="35" src="https://cdn.simpleicons.org/x/ffffff" />
   </a>
 </p>
 <br>
@@ -72,32 +75,64 @@ Hello, fellow coder! 👋 Feel free to connect with me on the platforms below:
 
 
 
-<!--Languages & tools-->
-<h2 ><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages, Tools and Technologies </h2>
+<!-- Languages, Tools & Technologies -->
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="38">
+  Languages, Tools & Technologies
+</h2>
 
 <table align="center">
-	<tr>
-	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp&theme=dark"></td>
+
+<tr>
+  <td><strong>Programming Languages</strong></td>
+  <td>
+    <img height="40" src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,c&theme=dark">
+  </td>
 </tr>
 
 <tr>
-	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js" ></td>
+  <td><strong>Frontend Development</strong></td>
+  <td>
+    <img height="40" src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass&theme=dark">
+  </td>
 </tr>
 
 <tr>
-	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=github&theme=dark"></td>
+  <td><strong>Backend Development</strong></td>
+  <td>
+    <img height="40" src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express&theme=dark">
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Databases</strong></td>
+  <td>
+    <img height="40" src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite&theme=dark">
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Cloud & DevOps</strong></td>
+  <td>
+    <img height="40" src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,git,github&theme=dark">
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Tools & OS</strong></td>
+  <td>
+    <img height="40" src="https://skillicons.dev/icons?i=vscode,postman,linux&theme=dark">
+  </td>
 </tr>
 
 </table>
+
 <br>
 
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## GSSOC(24-Extd) Badges 🪶
+## GssOC Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -131,6 +166,25 @@ Peek into my GitHub stats to check out my digital journey! <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anujshrivastava01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
+<h2>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55" alt="Rocket" />
+  Let’s Connect
+</h2>
+
+<p align="center">
+  I’m always open to meaningful conversations, collaborations, and opportunities.<br>
+  Whether it’s open-source, internships, or building impactful tech — feel free to reach out.
+</p>
+
+<pre><code>
+┌──────────────────────────────────────────────┐
+│  💡 Curious mind, builder by passion         │
+│  🤝 Open to collaboration & learning         │
+│  🚀 Let’s create something impactful         │
+└──────────────────────────────────────────────┘
+</code></pre>
+
 
 
 <div align="center">
