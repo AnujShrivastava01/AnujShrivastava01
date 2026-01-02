@@ -135,21 +135,15 @@ Peek into my GitHub stats to check out my digital journey! <br>
   </a>
 </p>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Quote" width="25" /> Quote of the Day
+### ✍️ Random Dev Quote
 
-<table align="center">
-<tr>
-<td>
+<p align="center">
 
 <!-- QUOTE:START -->
-> "Love doesn't need reason. It speaks from the irrational wisdom of the heart."
-> 
-> — *Deepak Chopra*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=2026-01-03" alt="Dev Quote" />
 <!-- QUOTE:END -->
 
-</td>
-</tr>
-</table>
+</p>
 
 
 

@@ -15,24 +15,13 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Fetch Random Quote and Update README
+      - name: Update Dev Quote Image
         run: |
-          # Fetch random quote from ZenQuotes API
-          QUOTE_DATA=$(curl -s "https://zenquotes.io/api/random")
-          QUOTE=$(echo "$QUOTE_DATA" | jq -r '.[0].q')
-          AUTHOR=$(echo "$QUOTE_DATA" | jq -r '.[0].a')
-          
-          # Fallback if API fails
-          if [ "$QUOTE" == "null" ] || [ -z "$QUOTE" ]; then
-            QUOTE="Code is like humor. When you have to explain it, it's bad."
-            AUTHOR="Cory House"
-          fi
-          
-          # Update README with new quote
-          sed -i '/<!-- QUOTE:START -->/,/<!-- QUOTE:END -->/c\<!-- QUOTE:START -->\n> "'"$QUOTE"'"\n> \n> — *'"$AUTHOR"'*\n<!-- QUOTE:END -->' README.md
+          TODAY=$(TZ=Asia/Kolkata date +%Y-%m-%d)
+          sed -i "s|quote=[0-9\-]*\"|quote=$TODAY\"|g" README.md
           
           git config --global user.email "anujshrivastava10e@gmail.com"
           git config --global user.name "Anuj"
           git add README.md
-          git diff --staged --quiet || git commit -m "📜 Update Readme.md - $(TZ=Asia/Kolkata date +'%Y-%m-%d %H:%M')"
+          git diff --staged --quiet || git commit -m "✍️ Update Readme.md - $(TZ=Asia/Kolkata date +'%Y-%m-%d %H:%M')"
           git push origin main || true
