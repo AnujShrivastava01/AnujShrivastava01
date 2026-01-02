@@ -54,7 +54,6 @@ Hello, fellow coder! 👋 Feel free to connect with me on the platforms below:
 
 <h2>Projects: </h2>
 
-<h3>
 
 | Project Name | Description |
 | ------------ | ----------- |
@@ -71,7 +70,7 @@ Hello, fellow coder! 👋 Feel free to connect with me on the platforms below:
 | [PdfEditor](https://github.com/AnujShrivastava01/Pdfeditor) | PDF Content Background Color Editor |
 | [FileEncrypt](https://github.com/AnujShrivastava01/FileEncrypt) | Web Application for Encrypting and Decrypting Files Using Password-Based Encryption |
 
-</h3>
+
 
 <!--Languages & tools-->
 <h2 ><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages, Tools and Technologies </h2>
