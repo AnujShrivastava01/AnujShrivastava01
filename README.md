@@ -129,11 +129,15 @@ Peek into my GitHub stats to check out my digital journey! <br>
 </div>
 <br>
 
-<p align="center">
-  <a href="https://github.com/anujshrivastava01">
-    <img src="https://github-readme-stats.vercel.app/api/?username=anujshrivastava01&count_private=true&theme=tokyonight&show_icons=true" alt="My GitHub Stats" width="50%" />
-  </a>
-</p>
+<p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnujShrivastava01&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p><h2 style="text-decoration: none; cursor: none;">🏆 <span style="color: #00c2e0">GitHub Trophies:</span></h2></p>
+
+![](https://github-profile-trophy.vercel.app/?username=AnujShrivastava01&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" /> Daily Dev Quote
 
