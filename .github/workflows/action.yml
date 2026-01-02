@@ -4,9 +4,8 @@ on:
   schedule:
     - cron: "30 18 * * *"
   push:
-    paths:
-      - 'README.md'
-  workflow_dispatch:
+    branches:
+      - main
 
 jobs:
   update-readme:
