@@ -187,9 +187,9 @@ Peek into my GitHub stats to check out my digital journey! <br>
 <td>
 
 <!-- QUOTE:START -->
-> "No need to hurry. No need to sparkle. No need to be anybody but oneself."
+> "There are few reasons for telling the truth, but for lying the number is infinite."
 > 
-> — *Virginia Woolf*
+> — *Carlos Ruiz Zafon*
 <!-- QUOTE:END -->
 
 </td>
