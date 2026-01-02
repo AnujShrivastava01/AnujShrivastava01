@@ -8,7 +8,7 @@
     </h1>
 </div>
 
-<h2>🔗Connect with me :</h2>
+<h2>🔗Connect with me : </h2>
 
 Hello, Coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
 <p align="left">
