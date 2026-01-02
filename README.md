@@ -1,7 +1,6 @@
-<div id="header" align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif"
-    width="400" />
-</div>
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FAnujShrivastava0158fcb.png?alt=media)
+
+
 <div align="center">
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3500&color=4FC3F7&center=true&vCenter=true&width=450&lines=Hii..+I'm+Anuj;Welcome+to+my+Github+profile!;Passionate+about+Coding!;Exploring+new+technologies!;Let's+code+together!;Passionate+about+Coding!;"
