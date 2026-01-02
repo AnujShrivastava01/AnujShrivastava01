@@ -135,7 +135,8 @@ Peek into my GitHub stats to check out my digital journey! <br>
   </a>
 </p>
 
-### ✍️ Random Dev Quote
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" /> Daily Dev Quote
+
 
 <p align="center">
 
