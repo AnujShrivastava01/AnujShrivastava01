@@ -93,7 +93,7 @@ growth!
 <tr>
   <td><strong>Tools & OS</strong></td>
   <td>
-    <img height="40" src="https://skillicons.dev/icons?i=vscode,postman,linux&theme=dark">
+    <img height="40" src="https://skillicons.dev/icons?i=vscode,postman,linux,windows,kali&theme=dark">
   </td>
 </tr>
 
