@@ -142,9 +142,9 @@ Peek into my GitHub stats to check out my digital journey! <br>
 <td>
 
 <!-- QUOTE:START -->
-> "There is only one thing in the world worse than being talked about, and that is not being talked about. "
+> "Love doesn't need reason. It speaks from the irrational wisdom of the heart."
 > 
-> — *Oscar Wilde*
+> — *Deepak Chopra*
 <!-- QUOTE:END -->
 
 </td>
