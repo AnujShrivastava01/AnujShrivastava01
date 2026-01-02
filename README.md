@@ -145,7 +145,7 @@ Peek into my GitHub stats to check out my digital journey! <br>
 <p align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&_=2026-01-03" alt="Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&_=2026-01-03T00-00-00" alt="Dev Quote" />
 <!-- QUOTE:END -->
 
 </p>
