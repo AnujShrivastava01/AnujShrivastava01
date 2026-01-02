@@ -2,7 +2,7 @@ name: Daily Readme Update
 
 on:
   schedule:
-    - cron: "5 13 * * *"
+    - cron: "10 13 * * *"
   push:
     branches:
       - main
@@ -14,10 +14,18 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Update README
+      - name: Fetch Random Quote and Update README
         run: |
+          # Fetch random quote from API
+          QUOTE_DATA=$(curl -s "https://api.quotable.io/random")
+          QUOTE=$(echo "$QUOTE_DATA" | jq -r '.content')
+          AUTHOR=$(echo "$QUOTE_DATA" | jq -r '.author')
+          
+          # Update README with new quote
+          sed -i '/<!-- QUOTE:START -->/,/<!-- QUOTE:END -->/c\<!-- QUOTE:START -->\n> "'"$QUOTE"'"\n> \n> — *'"$AUTHOR"'*\n<!-- QUOTE:END -->' README.md
+          
           git config --global user.email "anujshrivastava10e@gmail.com"
           git config --global user.name "Anuj"
           git add README.md
-          git diff --staged --quiet || git commit -m "Updated README on $(TZ=Asia/Kolkata date +'%Y-%m-%d %H:%M')"
+          git diff --staged --quiet || git commit -m "📜 Daily Quote Update - $(TZ=Asia/Kolkata date +'%Y-%m-%d %H:%M')"
           git push origin main || true
