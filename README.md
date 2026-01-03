@@ -127,7 +127,7 @@ growth!
 <div  width="50%" align ="center">
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <a >
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anuj Shrivastava's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=AnujShrivastava01&theme=dark&hide_border=true&short_numbers=true"/>
     </a>
