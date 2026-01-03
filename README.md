@@ -125,7 +125,13 @@ growth!
 ## 📊 My Stats :
 Peek into my GitHub stats to check out my digital journey! <br>
 <div  width="50%" align ="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anujshrivastava01&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Anuj's GitHub Streak" /></p>
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=AnujShrivastava01&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+    <p>
 </div>
 <br>
 
