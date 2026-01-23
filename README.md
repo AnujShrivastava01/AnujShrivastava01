@@ -25,6 +25,8 @@ growth!
 <a href="mailto:anujshrivastava10e@gmail.com">anujshrivastava10e@gmail.com</a>
 <br>
 
+
+
 <br>
 
 <h2>Projects: </h2>
@@ -45,7 +47,19 @@ growth!
 | [PdfEditor](https://github.com/AnujShrivastava01/Pdfeditor) | PDF Content Background Color Editor |
 | [FileEncrypt](https://github.com/AnujShrivastava01/FileEncrypt) | Web Application for Encrypting and Decrypting Files Using Password-Based Encryption |
 
+<br>
+<h2 align="center">💻 Coding Profiles</h2>
 
+<p align="center">
+  <a href="https://leetcode.com/u/anujshrivastava10e/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/mg0901cs231021" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Competitive%20Coder-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
+<br>
 
 <!-- Languages, Tools & Technologies -->
 <h2>
