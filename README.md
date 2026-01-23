@@ -57,7 +57,7 @@ growth!
   </a>
   &nbsp;&nbsp;
   <a href="https://www.codechef.com/users/anujmits_21" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Competitive%20Coder-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-brown?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
 
