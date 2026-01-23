@@ -56,7 +56,7 @@ growth!
     <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/mg0901cs231021" target="_blank">
+  <a href="https://www.codechef.com/users/anujmits_21" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-Competitive%20Coder-brown?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
