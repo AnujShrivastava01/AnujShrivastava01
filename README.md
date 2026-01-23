@@ -60,7 +60,7 @@ growth!
     <img src="https://img.shields.io/badge/CodeChef-Competitive%20Coder-brown?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
-<br>
+
 
 <!-- Languages, Tools & Technologies -->
 <h2>
