@@ -1,4 +1,4 @@
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FAnujShrivastava0158fcb.png?alt=media)
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FAnujShrivastava01b71ec.png?alt=media)
 
 
 <div align="center">
