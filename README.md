@@ -1,5 +1,7 @@
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FAnujShrivastava01b71ec.png?alt=media)
-
+<div id="header" align="center">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif"
+    width="400" />
+</div>
 
 <div align="center">
     <h1>
