@@ -39,6 +39,7 @@ growth!
 | [MITStudy](https://mitstudy.mitsgwalior.in/) | Academic Resource Platform |
 | [SAR Management System](http://sar.mitsgwalior.in/) | Institutional Accreditation Data Management |
 | [SaveIT](https://saveit.anujshrivastava.tech/) | Personal Link and Note Organizer |
+| [Hackocean](https://hackocean.vercel.app/) | Dynamic website for Hackathon Conduction having User and Organizer Panels |
 | [CampusLens](https://campuslens.anujshrivastava.tech/) | Comprehensive Data Management System with Excel Integration |
 | [RoadTracker](https://roadtracker-official.vercel.app/) | Road Issues Reporting Platform |
 | [SkillBridge](https://skill-bridge-web.vercel.app/) | Peer-to-Peer Learning Platform |
