@@ -38,6 +38,7 @@ growth!
 | ------------ | ----------- |
 | [MITStudy](https://mitstudy.mitsgwalior.in/) | Academic Resource Platform |
 | [SAR Management System](http://sar.mitsgwalior.in/) | Institutional Accreditation Data Management |
+| [CID CELL](http://cidcell.mitsgwalior.in/) | Collaborative Innovation and Developement Platform |
 | [SaveIT](https://saveit.anujshrivastava.tech/) | Personal Link and Note Organizer |
 | [CampusLens](https://campuslens.anujshrivastava.tech/) | Comprehensive Data Management System with Excel Integration |
 | [RoadTracker](https://roadtracker-official.vercel.app/) | Road Issues Reporting Platform |
