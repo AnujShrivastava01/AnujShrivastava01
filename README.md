@@ -40,6 +40,7 @@ growth!
 | [SAR Management System](http://sar.mitsgwalior.in/) | Institutional Accreditation Data Management |
 | [CID CELL](http://cidcell.mitsgwalior.in/) | Collaborative Innovation and Developement Platform |
 | [SaveIT](https://saveit.anujshrivastava.tech/) | Personal Link and Note Organizer |
+| [HackOcean](https://hackocean.vercel.app/) | Dynamic website for Hackathon Conduction having User and Organizer Panels |
 | [CampusLens](https://campuslens.anujshrivastava.tech/) | Comprehensive Data Management System with Excel Integration |
 | [RoadTracker](https://roadtracker-official.vercel.app/) | Road Issues Reporting Platform |
 | [SkillBridge](https://skill-bridge-web.vercel.app/) | Peer-to-Peer Learning Platform |
@@ -169,7 +170,7 @@ growth!
 <p align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&_=2026-03-17T07-22-27" alt="Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&_=2026-04-22T07-41-13" alt="Dev Quote" />
 <!-- QUOTE:END -->
 
 </p>
