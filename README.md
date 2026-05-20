@@ -13,7 +13,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
-🌿 Hello, I'm Anuj Shrivastava, Currently a final year Computer Science student at **Madhav Institute of Technology and Science (MITS), Gwalior**.
+🌿 Hello, I'm Anuj Shrivastava, Currently a Final year Computer Science student at **Madhav Institute of Technology and Science (MITS), Gwalior**.
 <br><br>
 "✨ With a passion for Software Development and AI/ML 🌐 as my compass, I am dedicated to mastering Data Structures and Algorithms (DSA)
 on this exciting journey."
