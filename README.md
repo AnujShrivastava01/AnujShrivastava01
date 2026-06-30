@@ -123,6 +123,7 @@ growth!
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<!--
 ## GssOC Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -135,6 +136,7 @@ growth!
   <img src="https://github.com/neeru24/Connect_icons/blob/main/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
 </a>
 </div>
+-->
 
 ## Holopin Badges 🪶
 [![An image of @anujshrivastava_01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anujshrivastava_01)](https://holopin.io/@anujshrivastava_01)
