@@ -52,19 +52,6 @@ growth!
 | [FileEncrypt](https://github.com/AnujShrivastava01/FileEncrypt) | Web Application for Encrypting and Decrypting Files Using Password-Based Encryption |
 
 <br>
-<h2 align="left">💻 Coding Profiles</h2>
-
-
-<p align="left">
-  <a href="https://leetcode.com/u/anujshrivastava10e/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/anujmits_21" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-brown?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
-
 
 <!-- Languages, Tools & Technologies -->
 <h2>
