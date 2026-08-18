@@ -11,7 +11,7 @@
 </div>
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="38"> About Me
+## 📈 About Me
 
 🌿 Hello, I'm Anuj Shrivastava, Currently a Final year Computer Science student at **Madhav Institute of Technology and Science (MITS), Gwalior**.
 <br><br>
